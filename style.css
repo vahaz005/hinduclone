@@ -286,7 +286,7 @@ border-right-color: #777;
 
 
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1040px) {
     .logo-div{
         margin-left: 0px;
     }
